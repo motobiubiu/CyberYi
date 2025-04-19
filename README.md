@@ -19,7 +19,6 @@
 - Streamlit (Web界面)
 - LangChain (AI处理框架)
 - ChromaDB (向量数据库)
-- DeepSeek (大模型接口)
 
 ## 安装指南
 1. 克隆本仓库
@@ -37,7 +36,7 @@ pip install -r requirements.txt
 ## 使用方法
 1. 启动Web界面
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 2. 在浏览器中访问 `http://localhost:8501`
