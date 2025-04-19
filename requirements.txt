@@ -1,0 +1,17 @@
+streamlit
+langchain
+openai
+python-dotenv
+langchain-community
+chromadb
+sentence-transformers
+pandas
+numpy
+tqdm
+fastapi
+uvicorn
+python-multipart
+bidict
+cn2an
+ephem
+sxtwl
